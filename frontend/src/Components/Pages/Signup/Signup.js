@@ -104,7 +104,7 @@ const Signup = () => {
       // }); 
       window.location.href="/login"       
     } else {
-      toast.error("Test try Again !", {
+      toast.error("please try Again !", {
         position: "top-center",
         autoClose: 1000,
         hideProgressBar: true,
