@@ -33,6 +33,5 @@ This is a web application built using MERN stack technology. The application hel
 
 
 **PROJECT SNAP**
-![FireShot Capture 022 - React App - localhost](https://user-images.githubusercontent.com/112555787/227140243-923be3e2-e006-48b7-8d76-094dccad0902.png)
-
+FireShot Capture 023 - React App - localhost
 
