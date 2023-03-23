@@ -32,5 +32,7 @@ This is a web application built using MERN stack technology. The application hel
 *The application is built with reference to the website https://jeevanpramaan.gov.in/ and is designed to help pensioners in India to submit their life certificates and receive their pensions without any hassle.*
 
 
+**PROJECT SNAP**
+![FireShot Capture 022 - React App - localhost](https://user-images.githubusercontent.com/112555787/227140243-923be3e2-e006-48b7-8d76-094dccad0902.png)
 
 
